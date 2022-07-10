@@ -12,5 +12,4 @@ this is my frt final project
 
 
 #youtube video link that show my project
-https://youtu.be/OQDNacchZuo
-https://youtu.be/OQDNacchZuo
+https://youtu.be/mG7BfzkxCVY
